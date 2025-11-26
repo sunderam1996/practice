@@ -3,20 +3,17 @@
 body, html {
   margin: 0;
   padding: 0;
-  background: linear-gradient(to top right, #ffe6e6, #ff82ac);
+  background: linear-gradient(to top right, #ffbdbd, #008080);
   height: 100%;
-  overflow: hidden;
+  overflow: auto;
 }
 
 .love-page {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
   text-align: center;
   padding: 20px;
-  position: relative;
-  box-sizing: border-box;
 }
 
 .container {
@@ -38,7 +35,7 @@ h2 {
 
 p {
   font-size: 1.25rem;
-  color: #555;
+  color: #000000;
   line-height: 1.6;
   margin: 12px 0;
 }
