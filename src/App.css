@@ -3,7 +3,7 @@
 body, html {
   margin: 0;
   padding: 0;
-  background: linear-gradient(to top right, #ffe6e6, #fff0f5);
+  background: linear-gradient(to top right, #ffe6e6, #ff82ac);
   height: 100%;
   overflow: hidden;
 }
@@ -22,7 +22,7 @@ body, html {
 .container {
   width: 100%;
   max-width: 600px;
-  background: white;
+  background: #fce6e6;
   border-radius: 20px;
   padding: 40px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
