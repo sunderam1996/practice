@@ -1,5 +1,5 @@
+/* eslint-disable no-unused-vars */ 
 import React, { useState, useEffect } from 'react';
-// import Confetti from 'react-confetti';
 import './App.css';
 
 function App() {
@@ -21,18 +21,18 @@ function App() {
 
   return (
     <div className="love-page">
-      {/* <Confetti width={windowSize.width} height={windowSize.height} numberOfPieces={25} /> */}
       <div className="container">
-        <h2 className="fade-in float-in">Our Starmark #6 - Half a year of Loving & Obsessed with you</h2>
-        <p className="fade-in delay-1">6 months ago, I was just a boy who got incredibly lucky at Prague Airport.</p>
-        <p className="fade-in delay-1">Since that day, every normal moment somehow turned magical just because you were in it.</p>
-        <p className="fade-in delay-2">I still get butterflies when your notification pops up on my phone. I still smile like an idiot when I talk and think about you. And I still cannot believe you chose me. We have met 16 times till now and still it feels so less.</p>
-        <p className="fade-in delay-2">Thank you for every late-night call and every good morning text, every corset and towel pictures that almost give me a heart attack and every single time, you look at me like Iam your whole world, because you are mine. I love the next 6 months, the next 6 years, and all the months after that with you. </p>
-        <p className="fade-in delay-3">Happy half-year of us, gorgeous. I love you more than yesterday, but nowhere near as much as tomorrow. </p>
-        <p className="fade-in delay-3">I hope, you will try to forget your past and you will also love me completely 100% someday. </p>
-        <p className="fade-in delay-4">I wish, we go to Prague one day. I will be waiting for you with bag of Doritos and boarding pass at the airport, hoping that you would approach me and we will fall in love once again.</p>
-        <h2 className="fade-in delay-4"><i><b>Forever yours RASHI💖</b></i></h2>
-        <h2 className="fade-in delay-4"><i><b>MENKA</b></i></h2>
+        <h2 className="fade-in float-in">One year of Loving & Craving for you</h2>
+        <p className="fade-in delay-1">One year ago, two hopeless romantic people met at Prague Airport. I believe, it was all God's plan.</p>
+        <p className="fade-in delay-1">Since that day, every moment somehow turned magical just because you were in it, as we have been to so many unique dates. You made my 30th birthday really special. </p>
+        <p className="fade-in delay-2">I still smile like an idiot when I think about you. And I still cannot believe you chose me. We have met 37 times till now & still it feels so much less.</p>
+        <p className="fade-in delay-2">Thank you for every good morning texts & late-night calls, every lingerie pictures and bathing video calls. I really adore you, because you are my whole world.</p>
+        <p className="fade-in delay-3">Happy 1 year of us, my love. I love you more than yesterday, but nowhere near as much as tomorrow.</p>
+        <p className="fade-in delay-3">I know, one year is really less time for you. And, you have already experienced every highs in your past love life. But, I have also tried my best to show you; what real, healthy and calm love is, where you have to receive more and give less.</p>
+        <p className="fade-in delay-4">I was so happy and got overwhelmed, while doing the same roleplay in Pune Airport.</p>
+        <h2 className="fade-in delay-4"><i><b>I wanna lick your pussy forever💖</b></i></h2>
+        <h2 className="fade-in delay-4"><i><b>Forever yours, SUNDERAM</b></i></h2>
+        <h2 className="fade-in delay-4"><i><b>MY RASHI💖</b></i></h2>
       </div>
     </div>
   );
